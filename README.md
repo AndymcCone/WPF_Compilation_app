@@ -1,0 +1,3 @@
+WPF Compilation application
+
+Drawing with inkcanvas, menus, localization, saving text to json on close, etc....
