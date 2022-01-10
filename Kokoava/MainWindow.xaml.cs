@@ -31,7 +31,7 @@ namespace Kokoava
         public MainWindow()
         {
             //Kieliasetus lokalisoinnin testausta varten
-            Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("fi-FI");
+            //Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("fi-FI");
             InitializeComponent();
         }
 
