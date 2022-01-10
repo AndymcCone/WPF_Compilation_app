@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kokoava", "Kokoava\Kokoava.csproj", "{51DF8EAB-060C-4A5F-9627-D5211029F8EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netistalukeminen", "Netistalukeminen\Netistalukeminen.csproj", "{68E007D9-AF1B-4144-AAE2-32A87B57C9C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51DF8EAB-060C-4A5F-9627-D5211029F8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DF8EAB-060C-4A5F-9627-D5211029F8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DF8EAB-060C-4A5F-9627-D5211029F8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DF8EAB-060C-4A5F-9627-D5211029F8EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E007D9-AF1B-4144-AAE2-32A87B57C9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E007D9-AF1B-4144-AAE2-32A87B57C9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E007D9-AF1B-4144-AAE2-32A87B57C9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E007D9-AF1B-4144-AAE2-32A87B57C9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B39C969D-2CC6-4225-B2C9-A41AE9F0A656}
+	EndGlobalSection
+EndGlobal
